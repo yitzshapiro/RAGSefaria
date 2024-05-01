@@ -1,4 +1,4 @@
-# RAGSefaria
+# The RAG Sefaria Project
 
 Welcome to the RAG Sefaria Project where we'll be building the first agentic application that can compile source sheets and answer in depth questions based on Jewish scripture and writings.
 
